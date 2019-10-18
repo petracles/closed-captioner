@@ -56,6 +56,9 @@
 		BFD958312359ED910094939E /* closed-captioner */ = {
 			isa = PBXGroup;
 			children = (
+				BFD95848235A053C0094939E /* Controllers */,
+				BFD95847235A05380094939E /* Views */,
+				BFD95846235A05340094939E /* Models */,
 				BFD958322359ED910094939E /* AppDelegate.swift */,
 				BFD958342359ED910094939E /* SceneDelegate.swift */,
 				BFD958362359ED910094939E /* ViewController.swift */,
@@ -65,6 +68,27 @@
 				BFD958402359ED930094939E /* Info.plist */,
 			);
 			path = "closed-captioner";
+			sourceTree = "<group>";
+		};
+		BFD95846235A05340094939E /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		BFD95847235A05380094939E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		BFD95848235A053C0094939E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
